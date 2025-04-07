@@ -1,0 +1,13 @@
+# instalasi library
+numpy --upgrade
+pandas --upgrade
+scikit-learn --upgrade
+gensim --upgrade
+Sastrawi
+emoji
+nltk
+
+# script Python
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
