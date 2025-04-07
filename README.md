@@ -1,4 +1,4 @@
-# ⚙️ SETUP
+# ⚙️ SETUP Google COlab
 
 🔁 1. Upgrade & Reinstall Dependencies
 ```
