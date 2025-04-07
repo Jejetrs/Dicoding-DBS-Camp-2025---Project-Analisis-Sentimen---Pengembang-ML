@@ -1,8 +1,7 @@
-# Dicoding-DBS-Camp-2025---Project-Analisis-Sentimen---Pengembang-ML
+# ⚙️ SETUP
 
-⚙️ SETUP
-```
 🔁 1. Upgrade & Reinstall Dependencies
+```
 !pip install --upgrade --force-reinstall numpy pandas scikit-learn gensim
 
 ⚠️ Setelah instalasi, restart runtime/kernel:
